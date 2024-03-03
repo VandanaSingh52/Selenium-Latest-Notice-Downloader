@@ -12,8 +12,11 @@ It can be useful for anyone who needs to keep track of the latest updates from t
 
 1. Clone the repository to your local machine:
 
-`git clone <repository_url>
-cd Selenium-Latest-Notice-Downloader`
+`git clone <repository_url>`
+
+2. Change Project directory
+
+`cd Selenium-Latest-Notice-Downloader`
 
 2. Install the required dependencies:
 
